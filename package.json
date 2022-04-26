@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-automation-switches",
+  "name": "somfy-protect-alarm-switchers",
   "author": {
     "name": "Michael Froehlich"
   },
@@ -19,7 +19,7 @@
     "url": "git://https://github.com/Dzebcuks/homebridge-somfy-protect-alarm-switcher"
   },
   "bugs": {
-    "url": "http://github.com/grover/homebridge-automation-switches/issues"
+    "url": "http://github.com/dzebcuks/homebridge-automation-switches/issues"
   },
   "engines": {
     "node": ">=9.3.0",
