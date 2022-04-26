@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/grover/homebridge-automation-switches.git"
+    "url": "git://https://github.com/Dzebcuks/homebridge-somfy-protect-alarm-switcher"
   },
   "bugs": {
     "url": "http://github.com/grover/homebridge-automation-switches/issues"
